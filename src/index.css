@@ -1,0 +1,15 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.Btn {
+  margin: 0.5rem;
+}
+.bg-turquoise {
+  background-color: #44aca8;
+  color: white;
+}
